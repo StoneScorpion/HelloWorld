@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mi primera app con Kotlin</string>
+    <string name="saludo">Hola desde Kotlin</string>
+    <string name="nombre">Francisco Iván Rodríguez Bonilla</string>
+    <string name="matricula">18TE0133*</string>
+    <string name="carrera">ING en Informática</string>
+</resources>
